@@ -1,6 +1,6 @@
 {
-  "name": "vue-select-sy1ar9-inertia",
-  "version": "4.0.0-beta.7",
+  "name": "vue-select-sy1ar9-inertiajs",
+  "version": "4.0.0-beta.6",
   "type": "module",
   "description": "Fork https://vue-select.org . This package are working in SSR. Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
   "author": "Jeka Sylar",
