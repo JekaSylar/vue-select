@@ -1,6 +1,6 @@
 # vue-select ![Current Release](https://img.shields.io/github/release/sagalbot/vue-select.svg?style=flat-square) ![Release Date](https://img.shields.io/github/release-date/sagalbot/vue-select?style=flat-square) ![Bundle Size](https://flat.badgen.net/bundlephobia/min/vue-select) ![Monthly Downloads](https://img.shields.io/npm/dm/vue-select.svg?style=flat-square) [![Coverage Status](https://coveralls.io/repos/github/sagalbot/vue-select/badge.svg?branch=master)](https://coveralls.io/github/sagalbot/vue-select?branch=master) ![MIT License](https://img.shields.io/github/license/sagalbot/vue-select.svg?style=flat-square)
 
-> **Everything you wish the HTML `<select>` element could do, wrapped up into a lightweight, zero
+> **Master. Everything you wish the HTML `<select>` element could do, wrapped up into a lightweight, zero
 > dependency, extensible Vue component.**
 
 Vue Select is a feature rich select/dropdown/typeahead component. It provides a default
